@@ -1,21 +1,48 @@
-2022-06-17 16:20:22,820 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 16:20:29,744 - Rest Assured AMAPI -INFO - {
-    "success": false,
-    "message": "Invalid Request"
-}
-2022-06-17 16:21:04,189 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 16:21:11,197 - Rest Assured AMAPI -INFO - {
-    "success": false,
-    "message": "Invalid Request"
-}
-2022-06-17 16:22:47,581 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 16:22:54,397 - Rest Assured AMAPI -INFO - {
-    "success": false,
-    "message": "Invalid Request"
-}
-2022-06-17 16:42:16,388 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 16:43:03,165 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 17:32:21,055 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 17:35:30,483 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 17:58:47,707 - Rest Assured AMAPI -INFO - Hello World
-2022-06-17 18:02:28,039 - Rest Assured AMAPI -INFO - Hello World
+2022-06-01 10:20:04,453 - Android Management API -INFO - Checking URL
+2022-06-01 10:20:04,463 - Android Management API -INFO - The URL is Matched
+2022-06-01 10:25:08,789 - Android Management API -INFO - Checking URL
+2022-06-01 10:25:08,798 - Android Management API -INFO - The URL is Matched
+2022-06-01 10:27:30,883 - Android Management API -INFO - Checking URL
+2022-06-01 10:27:30,896 - Android Management API -INFO - The URL is Matched
+2022-06-01 10:53:37,160 - Android Management API -INFO - Checking URL
+2022-06-01 10:53:37,170 - Android Management API -INFO - The URL is Matched
+2022-06-01 10:56:38,936 - Android Management API -INFO - Checking URL
+2022-06-01 10:56:38,947 - Android Management API -INFO - The URL is Matched
+2022-06-01 12:31:34,675 - Android Management API -INFO - Checking URL
+2022-06-01 12:31:34,685 - Android Management API -INFO - The URL is Matched
+2022-06-01 12:34:21,537 - Android Management API -INFO - Checking URL
+2022-06-01 12:34:21,546 - Android Management API -INFO - The URL is Matched
+2022-06-01 12:50:16,078 - Android Management API -INFO - Checking URL
+2022-06-01 12:50:16,116 - Android Management API -INFO - The URL is Matched
+2022-06-01 12:52:52,477 - Android Management API -INFO - Checking URL
+2022-06-01 12:52:52,488 - Android Management API -INFO - The URL is Matched
+2022-06-01 12:57:30,438 - Android Management API -INFO - Checking URL
+2022-06-01 12:57:30,447 - Android Management API -INFO - The URL is Matched
+2022-06-01 12:58:52,715 - Android Management API -INFO - Checking URL
+2022-06-01 12:58:52,725 - Android Management API -INFO - The URL is Matched
+2022-06-06 10:57:20,054 - Android Management API -INFO - Checking URL
+2022-06-06 10:57:20,117 - Android Management API -INFO - The URL is Matched
+2022-06-06 10:59:31,273 - Android Management API -INFO - Checking URL
+2022-06-06 10:59:31,286 - Android Management API -INFO - The URL is Matched
+2022-06-06 11:00:59,123 - Android Management API -INFO - Checking URL
+2022-06-06 11:00:59,133 - Android Management API -INFO - The URL is Matched
+2022-06-06 14:47:25,055 - Android Management API -INFO - Checking URL
+2022-06-06 14:47:25,088 - Android Management API -INFO - The URL is Matched
+2022-06-06 14:51:12,133 - Android Management API -INFO - Checking URL
+2022-06-06 14:51:12,144 - Android Management API -INFO - The URL is Matched
+2022-06-06 14:51:55,961 - Android Management API -INFO - Checking URL
+2022-06-06 14:51:55,971 - Android Management API -INFO - The URL is Matched
+2022-06-06 14:54:44,349 - Android Management API -INFO - Checking URL
+2022-06-06 14:54:44,359 - Android Management API -INFO - The URL is Matched
+2022-06-06 14:57:11,903 - Android Management API -INFO - Checking URL
+2022-06-06 14:57:11,915 - Android Management API -INFO - The URL is Matched
+2022-06-06 18:19:54,000 - Android Management API -INFO - Checking URL
+2022-06-06 18:19:54,066 - Android Management API -INFO - The URL is Matched
+2022-06-16 09:38:24,479 - Android Management API -INFO - Checking URL
+2022-06-16 09:38:24,706 - Android Management API -INFO - The URL is Matched
+2022-06-17 14:49:21,909 - Android Management API -INFO - Checking URL
+2022-06-17 14:49:21,959 - Android Management API -INFO - The URL is Matched
+2022-06-17 14:54:43,737 - Android Management API -INFO - Checking URL
+2022-06-17 14:54:43,750 - Android Management API -INFO - The URL is Matched
+2022-06-17 14:59:34,958 - Android Management API -INFO - Checking URL
+2022-06-17 14:59:34,968 - Android Management API -INFO - The URL is Matched

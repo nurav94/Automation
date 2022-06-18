@@ -3,17 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="apiTesting.MCaaS">
+      <class name="testCases.LoginPage">
         <methods>
-          <include name="showAllEnterprises"/>
-          <include name="signIn"/>
-          <include name="showEnterprisesList"/>
-          <include name="signupForNewEnterprise"/>
-          <include name="showEnterpriseDetails"/>
-          <include name="baseURI"/>
-          <include name="showAllDevices"/>
+          <include name="invalidLogin"/>
+          <include name="openBrowser"/>
+          <include name="checkUrl"/>
+          <include name="closeBrowser"/>
+          <include name="validLogin"/>
         </methods>
-      </class> <!-- apiTesting.MCaaS -->
+      </class> <!-- testCases.LoginPage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

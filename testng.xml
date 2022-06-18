@@ -5,10 +5,10 @@
 <listeners>
 		<listener class-name="utils.TestListeners" />
 	</listeners>
-
+	
   <test thread-count="5" name="Test">
     <classes>
-      <class name="apiTesting.MCaaS"/>
+      <class name="testCases.LoginPage"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
