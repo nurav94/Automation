@@ -1,0 +1,21 @@
+2022-06-17 16:20:22,820 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 16:20:29,744 [main] INFO Rest Assured AMAPI - {
+    "success": false,
+    "message": "Invalid Request"
+}
+2022-06-17 16:21:04,189 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 16:21:11,197 [main] INFO Rest Assured AMAPI - {
+    "success": false,
+    "message": "Invalid Request"
+}
+2022-06-17 16:22:47,581 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 16:22:54,397 [main] INFO Rest Assured AMAPI - {
+    "success": false,
+    "message": "Invalid Request"
+}
+2022-06-17 16:42:16,388 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 16:43:03,165 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 17:32:21,055 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 17:35:30,483 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 17:58:47,707 [main] INFO Rest Assured AMAPI - Hello World
+2022-06-17 18:02:28,039 [main] INFO Rest Assured AMAPI - Hello World
